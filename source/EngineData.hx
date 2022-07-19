@@ -336,38 +336,36 @@ class EngineData {
   public static var weeksUnlocked:Array<Bool>=[true,true,true,true,true,true];
   public static var mustUnlockWeeks:Bool=false; // TODO: make this work
   public static var weekData:Array<WeekData> = [
-    new WeekData("Funkin' Virgin",0,'',[
-      new SongData("Tutorial","gf",0),
+    new WeekData("Learning",0,'gf',[
+      "Tutorial"
     ]),
-    new WeekData("DADDY DEAREST",1,'dad',[
-      "Bopeebo",
-      "Fresh",
-      "Dadbattle"
+    new WeekData("Fight Against Luigi!",1,'dad',[
+      "Loogi",
+      "Jumpin",
+      "64bit",
+      "No More Running",
+      "I Am GOD",
+      "Alarmussy of the Sussy",
+      "Wah",
+      "AMONGUSSY"
     ]),
-    new WeekData("Spooky Month",2,'spooky',[
-      "Spookeez",
-      "South",
-      new SongData("Monster","monster",2)
+    new WeekData("Freeplay shit, go fuck yourself",2,'spooky',[
+      "Simping Aint Cool",
+      "Loogi Wah Mix",
+      "Very Sp00py"
     ]),
-    new WeekData("Pico",3,'pico',[
-      "Pico",
-      new SongData("Philly Nice","pico",3,"philly-nice"),
-      "Blammed"
+    new WeekData("Soft bf gets bullied",3,'pico',[
+      "fuck-a you",
+      "Beeping Bitch",
+      "DISGRACE TO HUMANITY"
     ]),
-    new WeekData("MOMMY MUST MURDER",4,'mom',[
+    new WeekData("The prequel",4,'mom',[
       new SongData("Satin Panties","mom",4,"satin-panties"),
-      "High",
-      "MILF"
-    ]),
-    new WeekData("RED SNOW",5,'parents-christmas',[
-      "Cocoa",
-      "Eggnog",
-      new SongData("Winter Horrorland","monster",5,"winter-horrorland"),
-    ]),
-    new WeekData("hating simulator ft. moawling",6,'senpai',[
-      "Senpai",
-      "Roses",
-      new SongData("Thorns","spirit",6),
+      "Tutorial",
+      "Sparring Match"
+    ]);
+    new WeekData("OBUNGA",6,'senpai',[
+      "OBUNGA",
     ]),
   ];
 
