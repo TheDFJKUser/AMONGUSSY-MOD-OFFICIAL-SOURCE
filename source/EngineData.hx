@@ -363,7 +363,7 @@ class EngineData {
       new SongData("Satin Panties","mom",4,"satin-panties"),
       "Tutorial",
       "Sparring Match"
-    ]);
+    ]),
     new WeekData("OBUNGA",6,'senpai',[
       "OBUNGA",
     ]),
