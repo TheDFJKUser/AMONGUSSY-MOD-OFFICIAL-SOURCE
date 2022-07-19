@@ -349,7 +349,7 @@ class EngineData {
       "Wah",
       "AMONGUSSY"
     ]),
-    new WeekData("Freeplay shit, go fuck yourself",2,'spooky',[
+    new WeekData("Extras",2,'spooky',[
       "Simping Aint Cool",
       "Loogi Wah Mix",
       "Very Sp00py"
